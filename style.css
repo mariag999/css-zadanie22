@@ -1,0 +1,20 @@
+h1 {
+    background-color: blue;
+}
+
+h3.one {
+    background-color: brown;
+    color: aqua;
+}
+
+p.ten {
+    color: aqua;
+}
+
+h3.two {
+    background-color: bisque;
+}
+
+p.eleven {
+    color: blueviolet;
+}
